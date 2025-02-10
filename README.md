@@ -1,9 +1,9 @@
 <h1>JavaScript</h1>
 
-JavaScript is a programming language used to create dynamic content for websites. It is a lightweight, cross-platform, and single-threaded programming language. JavaScript is an interpreted language that executes code line by line providing more flexibility.
-<p>HTML adds Structure to a web page, CSS styles it and JavaScript brings it to life by allowing users to interact with elements on the page, such as actions on clicking buttons, filling out forms, and showing animations.
-<br>JavaScript on the client side is directly executed in the user's browser. Almost all browsers have JavaScript Interpreter and do not need to install any software. There is also a browser console where you can test your JavaScript code.
-<br>JavaScript is also used on the Server side (on Web Servers) to access databases, file handling and security features to send responses, to browsers.</p>
+- <h2> JavaScript is a programming language used to create dynamic content for websites. It is a lightweight, cross-platform, and single-threaded programming language. JavaScript is an interpreted language that executes code line by line providing more flexibility.</h2>
+- <p> HTML adds Structure to a web page, CSS styles it and JavaScript brings it to life by allowing users to interact with elements on the page, such as actions on clicking buttons, filling out forms, and showing animations.
+- <br>JavaScript on the client side is directly executed in the user's browser. Almost all browsers have JavaScript Interpreter and do not need to install any software. There is also a browser console where you can test your JavaScript code.
+- <br>JavaScript is also used on the Server side (on Web Servers) to access databases, file handling and security features to send responses, to browsers.</p>
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20241228083006415653/Webpage-In-Browser.webp" alt="" width="800px" height="400px">
 JavaScript is a high-level, versatile, and widely-used programming language primarily known for its role in web development. Below is a comprehensive overview of JavaScript, covering its history, features, syntax, use cases, and more.
 
@@ -164,9 +164,9 @@ async function fetchData() {
 
 ### **10. Learning Resources**
 - **Documentation**: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- **Online Courses**: FreeCodeCamp, Codecademy, Udemy.
+- **Online Courses**: FreeCodeCamp, GeeksForGeeks, Codecademy, Udemy ect.
 - **Books**: "Eloquent JavaScript," "You Don't Know JS."
-- **Practice Platforms**: LeetCode, HackerRank, Codewars.
+- **Practice Platforms**: LeetCode, HackerRank, Codechef, Codewars.
 
 ---
 
