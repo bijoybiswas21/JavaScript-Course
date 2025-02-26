@@ -13,6 +13,7 @@ function calculateArea(radius) {
 // Arrow function example
 const multiply = (a, b) => a * b;
 
+
 // Array methods
 const numbers = [1, 2, 3, 4, 5];
 const doubled = numbers.map(num => num * 2);
