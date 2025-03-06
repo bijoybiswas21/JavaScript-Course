@@ -5,6 +5,7 @@ let greeting = "Hello World";
 const pi = 3.14159;
 var legacy = "old style"; // older way to declare variables
 
+
 // Function declaration
 function calculateArea(radius) {
     return pi * radius * radius;
